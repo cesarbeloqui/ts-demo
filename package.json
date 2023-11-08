@@ -1,0 +1,24 @@
+{
+  "name": "ts-demo",
+  "version": "1.0.0",
+  "description": "curso de type script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarbeloqui/ts-demo.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "demo"
+  ],
+  "author": "@CesarBeloqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarbeloqui/ts-demo/issues"
+  },
+  "homepage": "https://github.com/cesarbeloqui/ts-demo#readme"
+}
