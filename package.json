@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/cesarbeloqui/ts-demo/issues"
   },
-  "homepage": "https://github.com/cesarbeloqui/ts-demo#readme"
+  "homepage": "https://github.com/cesarbeloqui/ts-demo#readme",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+  }
 }
